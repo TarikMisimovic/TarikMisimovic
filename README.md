@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TarikMisimovic
-- 👀 I’m interested in: Python, C#, JavaScript, Jupyter, Data Science/Analasys, Machine Learning
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in: Data Science , Python, C#, JavaScript, Jupyter, Data Analasys, Machine Learning
+- 🌱 I’m currently working ...
 - 📫 How to reach me: tarik.misimovic@gmail.com 
 
 <!---
